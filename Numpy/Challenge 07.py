@@ -19,3 +19,7 @@ print(np.sum(arr))
 print(np.min(arr))
 #Maximum
 print(max(arr))
+
+# Without runing code : np.mean([5, 10, 15]) => 10
+
+# Without runing code : np.sum([1, 2, 3, 4]) => 10
